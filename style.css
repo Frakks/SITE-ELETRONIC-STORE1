@@ -1,0 +1,34 @@
+@charset "UTF-8"
+
+header{
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.cabecalho {
+    color: #ffffff;
+    margin: center;
+}
+
+.cabecalho-lista1 {
+    color: white;
+    margin left: 40px /*alinhamento a esquerda*/
+    padding: 20px;/*espaçamento vertical*/
+}
+
+.cabecalho-lista-2 {
+    color: white;
+    margin left: 40px;
+    padding: 20px;
+}
+
+body{
+    background-color: #fcfcad;
+    color: black;
+}
+
+.titulo-2 {
+    margin: center;
+    color: black;
+    
+}
