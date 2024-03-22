@@ -12,13 +12,13 @@ header{
 
 .cabecalho-lista1 {
     color: white;
-    margin left: 40px /*alinhamento a esquerda*/
-    padding: 20px;/*espaçamento vertical*/
+    margin-left: 40px /*alinhamento a esquerda*/
+    padding: 20px; /*espaçamento vertical*/
 }
 
 .cabecalho-lista-2 {
     color: white;
-    margin left: 40px;
+    margin-left: 40px;
     padding: 20px;
 }
 
@@ -28,7 +28,65 @@ body{
 }
 
 .titulo-2 {
-    margin: center;
+    justify-content: center;
     color: black;
-    
+}
+
+.parafagrafo-1 {
+    margin-left: 20px;
+    justify-content: center;
+}
+
+.titulo-3 {
+    color: black;
+    justify-content: center;
+    padding: 40px;
+}
+
+.parafagrafo-2 {
+    margin-left: 20px;
+    justify-content: center;
+}
+
+.Arduino {
+    width: 40%;
+    margin-left: 30px;
+    margin-right: 50px;
+}
+
+.protoboard {
+    width: 40%;
+    margin-right: 50px;
+}
+
+.multimetro {
+    width: 40%;
+    margin-right: 30px;
+}
+
+.capacitor {
+    width: 40%;
+    padding: 45px;
+    margin-left: 30px;
+    margin-right: 50px;
+}
+
+.sensor-LDR{
+    margin-right: 50px;
+    width: 40%;
+}
+
+.LED {
+    width: 40%;
+    margin-right: 50px;
+}
+
+footer {
+    background-color: black;
+    color: white;
+}
+
+p  {
+    text-align: center;
+    padding: 20px;
 }
