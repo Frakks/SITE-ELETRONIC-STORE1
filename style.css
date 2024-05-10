@@ -7,13 +7,16 @@ header{
 
 .cabecalho {
     color: #ffffff;
-    margin: center;
+    margin-left: 660px;
+    text-align: center;
+    display: flex;
 }
 
 .cabecalho-lista1 {
     color: white;
-    margin-left: 40px /*alinhamento a esquerda*/
+    margin-left: 260px /*alinhamento a esquerda*/
     padding: 20px; /*espaçamento vertical*/
+    
 }
 
 .cabecalho-lista-2 {
