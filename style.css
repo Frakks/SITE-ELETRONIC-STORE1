@@ -16,23 +16,28 @@ header{
     color: white;
     margin-left: 260px /*alinhamento a esquerda*/
     padding: 20px; /*espaçamento vertical*/
-    
+    display: inline-block;
+    justify-content: center;
 }
 
 .cabecalho-lista-2 {
     color: white;
-    margin-left: 40px;
-    padding: 20px;
+    margin-left: 460px;
+    padding: 40px;
+    display: inline-block;
+    justify-content: center;
 }
 
 body{
     background-color: #fcfcad;
     color: black;
+    font-family:;
 }
 
 .titulo-2 {
     justify-content: center;
     color: black;
+    display: flex;
 }
 
 .parafagrafo-1 {
